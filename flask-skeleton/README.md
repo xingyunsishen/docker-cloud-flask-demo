@@ -4,7 +4,7 @@
 
 # Flask Skeleton
 
-Flask starter project...
+Flask starter project...，test auto build
 
 ## Quick Start
 
